@@ -1,5 +1,4 @@
-# BE-JIMNAH_MAGIRA_0728768668
-# IE TEST NOV 27th
+# BE-JIMNAH_MAGIRA
 
 By [Jimnah Magira](https://github.com/jimnahmagira).
 
@@ -30,9 +29,6 @@ python database_CRUD.py
 
 No further installment necessary:
 Open file.csv to view changes in db
-
-`rails generate my_example_gem:install`
-
 
 ### Known Issues
 
