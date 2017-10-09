@@ -1,9 +1,7 @@
-# BE-JIMNAH_MAGIRA
 
 By [Jimnah Magira](https://github.com/jimnahmagira).
 
-## Description
-**Application Name Here** description can be listed here.
+
 
 ## Installation
 
@@ -49,7 +47,3 @@ send us a pull request.
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-
-## License
-
-Your Licensing Information goes here. Example: MIT/X11.
